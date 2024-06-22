@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Maker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Resume Maker</h1>
+        <div class="form-container">
+            <form id="resume-form">
+                <fieldset>
+                    <legend>Personal Information</legend>
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required><br>
+
+                    <label for="contact">Contact Info:</label>
+                    <input type="text" id="contact" name="contact" required><br>
+
+                    <label for="summary">Summary:</label>
+                    <textarea id="summary" name="summary"></textarea><br>
+                </fieldset>
+                <fieldset>
+                    <legend>Skills</legend>
+                    <textarea id="skills" name="skills"></textarea><br>
+                </fieldset>
+                <fieldset>
+                    <legend>Education</legend>
+                    <textarea id="education" name="education"></textarea><br>
+                </fieldset>
+                <fieldset>
+                    <legend>Experience</legend>
+                    <textarea id="experience" name="experience"></textarea><br>
+                </fieldset>
+                <fieldset>
+                    <legend>Projects</legend>
+                    <textarea id="projects" name="projects"></textarea><br>
+                </fieldset>
+                <fieldset>
+                    <legend>Certifications</legend>
+                    <textarea id="certifications" name="certifications"></textarea><br>
+                </fieldset>
+                <fieldset>
+                    <legend>Languages</legend>
+                    <textarea id="languages" name="languages"></textarea><br>
+                </fieldset>
+                <fieldset>
+                    <legend>References</legend>
+                    <textarea id="references" name="references"></textarea><br>
+                </fieldset>
+                <button type="button" onclick="updatePreview()">Preview Resume</button>
+            </form>
+        </div>
+        <div class="preview-container">
+            <h2>Resume Preview</h2>
+            <div id="resume-preview"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
