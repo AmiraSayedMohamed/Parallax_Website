@@ -16,7 +16,6 @@ Welcome to my GitHub repository showcasing the projects I completed during my in
 
 - **Description:** A multi-section website featuring individual background images with a parallax scrolling effect.
 - **Features:** Navigation menu, content sections, animation effects, optimization, responsive design.
-- **Notes:** Original design and code, no copying from elsewhere.
 
 ### 2. User Info Based Resume Maker
 
