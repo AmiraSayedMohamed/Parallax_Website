@@ -1,1 +1,0 @@
-this directory contain all images we will need during this projec
