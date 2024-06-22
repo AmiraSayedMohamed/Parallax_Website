@@ -1,4 +1,4 @@
-# Internship Tasks at CeDge
+# Internship Tasks at Cedge
 
 Welcome to my GitHub repository showcasing the projects I completed during my internship at CeDge as a Web Developer. This repository contains tasks categorized by their difficulty levels: Easy, Medium, and Hard. Each task demonstrates my skills in web development, including design, interactivity, responsiveness, and advanced web technologies.
 
