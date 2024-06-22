@@ -21,7 +21,7 @@ Welcome to my GitHub repository showcasing the projects I completed during my in
 ### 2. User Info Based Resume Maker
 
 - **Description:** A resume maker that gathers user’s professional details and supports rich text entries.
-- **Features:** Data collection, rich text editor, multiple resume templates, live preview, export options (PDF, Docx, txt).
+- **Features:** Data collection, rich text editor, multiple resume templates, live preview.
 
 ### 3. Simple Landing Page
 
